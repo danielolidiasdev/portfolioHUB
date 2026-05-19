@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PortfolioHUB
 
 Repositório destinado ao armazenamento de projetos acadêmicos e pessoais.
@@ -13,3 +14,4 @@ Desenvolver um portfólio profissional utilizando versionamento e publicação o
 
 ## Autor
 Daniel Oliveira Dias
+=======
